@@ -1,0 +1,4 @@
+baseURL = "https://flute-musicpiluo.vercel.app"
+languageCode = "en-us"
+title = "Flute Sheet Music With Accompaniment"
+theme = "hugo-theme-minos"
